@@ -6,6 +6,10 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		414BDC2B2DD57FF00003E2A7 /* StudyGuide.md in Resources */ = {isa = PBXBuildFile; fileRef = 414BDC2A2DD57FD80003E2A7 /* StudyGuide.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXContainerItemProxy section */
 		414BDC0E2DD57FC70003E2A7 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
@@ -27,6 +31,7 @@
 		414BDBFF2DD57FC60003E2A7 /* LearningSwiftUI.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LearningSwiftUI.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		414BDC0D2DD57FC70003E2A7 /* LearningSwiftUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LearningSwiftUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		414BDC172DD57FC70003E2A7 /* LearningSwiftUIUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = LearningSwiftUIUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		414BDC2A2DD57FD80003E2A7 /* StudyGuide.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = StudyGuide.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -75,6 +80,7 @@
 		414BDBF62DD57FC60003E2A7 = {
 			isa = PBXGroup;
 			children = (
+				414BDC2A2DD57FD80003E2A7 /* StudyGuide.md */,
 				414BDC012DD57FC60003E2A7 /* LearningSwiftUI */,
 				414BDC102DD57FC70003E2A7 /* LearningSwiftUITests */,
 				414BDC1A2DD57FC70003E2A7 /* LearningSwiftUIUITests */,
@@ -212,6 +218,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				414BDC2B2DD57FF00003E2A7 /* StudyGuide.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
